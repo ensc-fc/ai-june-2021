@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+# Artificial intelligence training session - June 2021
 
-You can use the [editor on GitHub](https://github.com/ensc-fc/ia-juin-2021/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[Ecole Nationale Supérieure de Cognitique](https://ensc.bordeaux-inp.fr)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[![ENSC logo](ENSC.jpg)](https://ensc.bordeaux-inp.fr/)
 
-### Markdown
+## Day 1
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Lectures
 
-```markdown
-Syntax highlighted code block
+- [The Python ecosystem](https://www.bpesquet.fr/mlhandbook/overview/the_python_ecosystem.html)
+- [Machien Learning in action](https://www.bpesquet.fr/mlhandbook/overview/machine_learning_in_action.html)
 
-# Header 1
-## Header 2
-### Header 3
+## Day 2
 
-- Bulleted
-- List
+### Lectures
 
-1. Numbered
-2. List
+- [Handling data](https://www.bpesquet.fr/mlhandbook/fundamentals/handling_data.html)
+- [Assessing results](https://www.bpesquet.fr/mlhandbook/fundamentals/assessing_results.html)
+- [Training models](https://www.bpesquet.fr/mlhandbook/fundamentals/training_models.html)
+- [Decision Trees & Random Forests](https://www.bpesquet.fr/mlhandbook/algorithms/decision_trees_and_random_forests.html)
+- [Artificial Neural Networks](https://www.bpesquet.fr/mlhandbook/algorithms/artificial_neural_networks.html)
 
-**Bold** and _Italic_ and `Code` text
+### Practicals
 
-[Link](url) and ![Image](src)
-```
+- [NumPy](https://www.bpesquet.fr/mlhandbook/katas/data/numpy.html)
+- [Diabetes](https://www.bpesquet.fr/mlhandbook/katas/training/diabetes.html)
+- [Fashion-MNIST](https://www.bpesquet.fr/mlhandbook/katas/training/fashion_mnist.html)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Day 3
 
-### Jekyll Themes
+### Lectures
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ensc-fc/ia-juin-2021/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- [Convolutional Neural Networks](https://www.bpesquet.fr/mlhandbook/algorithms/convolutional_neural_networks.html)
+- [Recurrent Neural Networks](https://www.bpesquet.fr/mlhandbook/algorithms/recurrent_neural_networks.html)
+- [Generative Adversarial Networks](https://www.bpesquet.fr/mlhandbook/algorithms/generative_adversarial_networks.html)
 
-### Support or Contact
+### Practicals
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- [CIFAR10](https://www.bpesquet.fr/mlhandbook/katas/training/cifar10.html)
+- [Dogs vs. cats](https://www.bpesquet.fr/mlhandbook/katas/training/dogs_vs_cats_keras.html)
+- [Jena weather](https://www.bpesquet.fr/mlhandbook/katas/training/jena_weather.html)
+
+## Day 5
+
+### Practicals
+
+- [Titanic](https://www.bpesquet.fr/mlhandbook/katas/training/titanic.html)
+- Household consumption (TBD)

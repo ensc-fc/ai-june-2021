@@ -9,7 +9,7 @@
 ### Lectures
 
 - [The Python ecosystem](https://www.bpesquet.fr/mlhandbook/overview/the_python_ecosystem.html)
-- [Machien Learning in action](https://www.bpesquet.fr/mlhandbook/overview/machine_learning_in_action.html)
+- [Machine Learning in action](https://www.bpesquet.fr/mlhandbook/overview/machine_learning_in_action.html)
 
 ## Day 2
 
